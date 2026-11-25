@@ -1,18 +1,20 @@
 # Bài tập lớn Machine Learning — Phân loại chủ đề tin tức BBC News
 
 ## Thông tin môn học
-- **Môn học:** `<Tên môn học>`
-- **Mã môn học:** `<Mã môn>`
-- **Học kỳ / Năm học:** `<HK>` / `<20xx - 20xx>`
+- **Môn học:** Học máy
+- **Mã môn học:** CO3117
+- **Học kỳ / Năm học:** Học kỳ HK261, năm học 2026-2027
 
 ## Giảng viên hướng dẫn
-- `<Họ tên GVHD>` — `<email GVHD>`
+- Trương Vĩnh Lân
 
 ## Thành viên nhóm
 | STT | Họ và tên | MSSV | Email |
 |-----|-----------|------|-------|
-| 1 | `<Họ tên>` | `<MSSV>` | `<email>` |
-| 2 | `<Họ tên>` | `<MSSV>` | `<email>` |
+| 1 | Nguyễn Gia An | 2410021 | an.nguyengia2006@hcmut.edu.vn |
+| 2 | Nông Chí Thiện | 2414113 | thien.nongchi566@hcmut.edu.vn |
+
+
 
 ## Mục tiêu
 Xây dựng và so sánh các mô hình học máy cho bài toán **phân loại chủ đề bài báo** (5 lớp: business,
