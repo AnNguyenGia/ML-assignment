@@ -1,0 +1,7 @@
+Model,Features,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Weighted F1 (%)
+Naive Bayes (TF-IDF),TF-IDF,93.86,93.69,93.7,93.44,93.89
+Naive Bayes (BERT),BERT,91.71,91.21,91.48,91.27,91.73
+Decision Tree (TF-IDF),TF-IDF,77.07,76.76,76.05,76.13,76.84
+Decision Tree (BERT),BERT,73.3,72.69,72.78,72.71,73.37
+MLP (TF-IDF),TF-IDF,96.23,96.3,96.02,96.12,96.24
+MLP (BERT),BERT,95.69,95.57,95.51,95.53,95.7
